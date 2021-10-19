@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+"""
+This code is used to get data directly from specified HOST and PORT
+The data is stored and plotted after user press ctrl+c key
+"""
+
 import socket
 import numpy as np
 import time
